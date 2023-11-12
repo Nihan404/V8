@@ -36,8 +36,8 @@ time.sleep(2)
 print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
 os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
 time.sleep(2)
-os.system(f'xdg-open https://www.youtube.com/@kgaming6607')
-os.system(f'xdg-open https://www.facebook.com/profile.php?id=100088035424278')
+os.system(f'xdg-open https://www.youtube.com/@GXNIHANGAMING')
+os.system(f'xdg-open https://facebook.com/groups/308917765337657/')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ MR-DAVIL ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
@@ -1823,7 +1823,7 @@ def menu():
     elif HEART in ['1']:
         crack_file()
     elif HEART in ['2','02']:
-        os.system('xdg-open https://facebook.com/groups/308917765337657/')
+        os.system('xdg-open https://github.com/Mr-Alon')
         os.system("python nono.py")
     elif HEART in ['3','03']:
         result()
